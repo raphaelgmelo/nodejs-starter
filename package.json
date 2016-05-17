@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "Just a NodeJS hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelgmelo/nodejs-starter.git"
+  },
+  "keywords": [
+    "nodejs",
+    "example",
+    "node",
+    "starter"
+  ],
+  "author": "Raphael Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelgmelo/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/raphaelgmelo/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
